@@ -4,7 +4,9 @@
   "description": "this is a test file to learn HTML and GIT",
   "main": "index.html ",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,7 @@
   },
   "homepage": "https://github.com/DoLaBP/github-test#readme",
   "devDependencies": {
-    "lite": "^4.0.5"
+    "lite": "^4.0.5",
+    "lite-server": "^2.6.1"
   }
 }
