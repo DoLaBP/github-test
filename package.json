@@ -1,0 +1,22 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "this is a test file to learn HTML and GIT",
+  "main": "index.html ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoLaBP/github-test.git"
+  },
+  "author": "DoLa Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoLaBP/github-test/issues"
+  },
+  "homepage": "https://github.com/DoLaBP/github-test#readme",
+  "devDependencies": {
+    "lite": "^4.0.5"
+  }
+}
